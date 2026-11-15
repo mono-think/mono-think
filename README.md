@@ -36,6 +36,8 @@
 
 ### 🔗 Connect with me
 
+- 💼 **Portfolio:** [私のポートフォリオ](https://portfolio.mono-think.net/)
+- 📝 **Blog:** [セイジ@田舎のWEBエンジニアによる試行錯誤な備忘録](https://note.com/mono_think)
 - 📰 **Media:** [ものシンク](https://mono-think.net/)
 - 🐦 **X (Twitter):** [@ms_itengineer](https://x.com/ms_itengineer)
 - 🧵 **Threads:** [@rivaston_web](https://www.threads.com/@rivaston_web)
